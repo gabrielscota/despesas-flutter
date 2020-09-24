@@ -13,7 +13,6 @@ Além disso, foram utilizadas duas bibliotecas, a do 'intl' para formatar as dat
 ## Bibliotecas utilizadas
 
 - 'intl' para formatar e converter datas.
-<br>
 - 'google_fonts' para personalziar as fontes dos textos sem precisar dos arquivos das fontes.
 
 ## Screenshots
